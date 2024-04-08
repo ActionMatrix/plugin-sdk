@@ -1,5 +1,5 @@
 {
-  "name": "@todo-manager/plugin-sdk",
+  "name": "@action-matrix/plugin-sdk",
   "version": "1.0.0",
   "private": false,
   "scripts": {
