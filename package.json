@@ -10,7 +10,7 @@
   "types": "lib/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "electron": "^24.1.2",
+    "electron": "30.0.0-beta.6",
     "glob": "^10.2.1"
   },
   "devDependencies": {
